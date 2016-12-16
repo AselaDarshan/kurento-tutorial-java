@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kurento.module:chroma:6.6.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/module/chroma/6.6.1-SNAPSHOT/chroma-6.6.1-20161031.122258-51.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/module/chroma/6.6.1-SNAPSHOT/chroma-6.6.1-20161031.122258-51-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/module/chroma/6.6.1-SNAPSHOT/chroma-6.6.1-20161031.122258-51-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

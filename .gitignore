@@ -9,4 +9,6 @@ target
 *tmp/
 *backup
 *Backup
+*.iml
+.idea
 *bower_components/
